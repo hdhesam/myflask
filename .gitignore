@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 # customize
 *.xlsx
+*.db
 *.db3
 *.sqlite3
 /templates
